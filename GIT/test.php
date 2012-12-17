@@ -2,4 +2,5 @@
 
 echo "hola;
 
+echo '';
 ?>
